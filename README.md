@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tarık Sağlıcak 👋</h1>
+<h1 align="center">Hi, I'm Tarık Sağlıcak </h1>
 
 <h3 align="center">
 Junior AI & Backend Developer | Python • C# • .NET • LLM Systems • Local AI
@@ -15,7 +15,7 @@ I build AI-powered applications focused on emotion analysis, automation, local A
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a Junior AI & Backend Developer from Istanbul, Turkey.
 
@@ -31,7 +31,7 @@ My main long-term project is **Darklove**, an AI-powered emotional support and m
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Building **Darklove Local AI Module**
 - Improving my **C# / .NET backend** skills
@@ -41,49 +41,7 @@ My main long-term project is **Darklove**, an AI-powered emotional support and m
 
 ---
 
-## 🧩 Featured Projects
-
-### 🖤 Darklove Local AI Module
-
-A local AI-powered motivation and emotion analysis module for Darklove.
-
-**Tech:** C#, .NET, Local AI, Emotion Analysis
-
----
-
-### 🧠 Astraeus LifeOS
-
-An autonomous AI system for context-aware orchestration and dynamic scheduling.
-
-**Tech:** Python, AI Agents, Automation, Orchestration
-
----
-
-### 💬 Konsey AI Platform
-
-A multi-agent AI discussion platform using Claude, Gemini and Grok.
-
-**Tech:** JavaScript, LLM Integrations, Multi-Agent Systems
-
----
-
-### 📊 Darklove Emotion Analysis
-
-A modern analysis tool for WhatsApp and Discord conversations with emotion analysis, visual reports and word statistics.
-
-**Tech:** Next.js, Tailwind CSS, JavaScript, Data Analysis
-
----
-
-### 🎙️ XTTS Voice Cloning Demo TR/EN
-
-A Turkish-English voice cloning demo project using XTTS.
-
-**Tech:** Python, Voice AI, Speech Synthesis
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,docker,vscode" />
@@ -91,7 +49,7 @@ A Turkish-English voice cloning demo project using XTTS.
 
 ---
 
-## 📌 Main Interests
+##  Main Interests
 
 ```txt
 AI Engineering
