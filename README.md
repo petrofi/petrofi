@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tarık Sağlıcak 👋</h1>
 
-<!--
-**petrofi/petrofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Junior AI & Backend Developer | Python • C# • .NET • LLM Systems • Local AI
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build AI-powered applications focused on emotion analysis, automation, local AI modules, backend systems, and LLM integrations.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://darklove.io" target="_blank">Website</a> •
+  <a href="https://github.com/petrofi" target="_blank">GitHub</a>
+</p>
+
+---
+
+## 🧠 About Me
+
+I am a Junior AI & Backend Developer from Istanbul, Turkey.
+
+I focus on building real-world AI products and backend systems, especially around:
+
+- Local AI and privacy-focused AI modules
+- Emotion analysis and motivational AI systems
+- LLM integrations and multi-agent workflows
+- Python automation and orchestration tools
+- C# / .NET backend API development
+
+My main long-term project is **Darklove**, an AI-powered emotional support and motivation platform.
+
+---
+
+## 🚀 Current Focus
+
+- Building **Darklove Local AI Module**
+- Improving my **C# / .NET backend** skills
+- Developing AI projects with **Python**
+- Exploring **LLM systems, local AI, automation, and API integrations**
+- Creating portfolio-ready projects for real-world software development
+
+---
+
+## 🧩 Featured Projects
+
+### 🖤 Darklove Local AI Module
+
+A local AI-powered motivation and emotion analysis module for Darklove.
+
+**Tech:** C#, .NET, Local AI, Emotion Analysis
+
+---
+
+### 🧠 Astraeus LifeOS
+
+An autonomous AI system for context-aware orchestration and dynamic scheduling.
+
+**Tech:** Python, AI Agents, Automation, Orchestration
+
+---
+
+### 💬 Konsey AI Platform
+
+A multi-agent AI discussion platform using Claude, Gemini and Grok.
+
+**Tech:** JavaScript, LLM Integrations, Multi-Agent Systems
+
+---
+
+### 📊 Darklove Emotion Analysis
+
+A modern analysis tool for WhatsApp and Discord conversations with emotion analysis, visual reports and word statistics.
+
+**Tech:** Next.js, Tailwind CSS, JavaScript, Data Analysis
+
+---
+
+### 🎙️ XTTS Voice Cloning Demo TR/EN
+
+A Turkish-English voice cloning demo project using XTTS.
+
+**Tech:** Python, Voice AI, Speech Synthesis
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,docker,vscode" />
+</p>
+
+---
+
+## 📌 Main Interests
+
+```txt
+AI Engineering
+Backend Development
+Local AI
+LLM Systems
+Emotion Analysis
+Automation
+API Integrations
+Multi-Agent Systems
