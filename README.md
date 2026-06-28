@@ -61,5 +61,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/normal-badge.png?id=petrofi&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpetrofi%2Fpetrofi&count_bg=%237928CA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false" alt="profile views" />
 </div>
+
