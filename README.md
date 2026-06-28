@@ -1,62 +1,65 @@
-<h1 align="center">Hi, I'm Tarık Sağlıcak </h1>
-
-<h3 align="center">
-Junior AI & Backend Developer | Python • C# • .NET • LLM Systems • Local AI
-</h3>
-
-<p align="center">
-I build AI-powered applications focused on emotion analysis, automation, local AI modules, backend systems, and LLM integrations.
-</p>
-
-<p align="center">
-  <a href="https://darklove.io" target="_blank">Website</a> •
-  <a href="https://github.com/petrofi" target="_blank">GitHub</a>
-</p>
-
----
-
-##  About Me
-
-I am a Junior AI & Backend Developer from Istanbul, Turkey.
-
-I focus on building real-world AI products and backend systems, especially around:
-
-- Local AI and privacy-focused AI modules
-- Emotion analysis and motivational AI systems
-- LLM integrations and multi-agent workflows
-- Python automation and orchestration tools
-- C# / .NET backend API development
-
-My main long-term project is **Darklove**, an AI-powered emotional support and motivation platform.
+<div align="center">
+  <h1>👋 Selam, Ben Tarık Sağlıcak (petrofi)</h1>
+  <p><strong>Junior AI & Backend Developer | Python • C# • .NET • LLM Systems • Local AI</strong></p>
+  
+  <p>
+    <a href="https://darklove.io" target="_blank">
+      <img src="https://img.shields.io/badge/Website-darklove.io-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="https://github.com/petrofi" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-petrofi-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-##  Current Focus
+### 💫 Hakkımda
 
-- Building **Darklove Local AI Module**
-- Improving my **C# / .NET backend** skills
-- Developing AI projects with **Python**
-- Exploring **LLM systems, local AI, automation, and API integrations**
-- Creating portfolio-ready projects for real-world software development
+İstanbul'da yaşayan ve yapay zeka odaklı pratik ürünler ile güçlü backend sistemleri geliştirmeye odaklanan bir yazılımcıyım. 
+
+- 🧠 **Yapay Zeka & NLP:** Yerel yapay zeka modelleri (Local LLMs), duygu analizi ve multi-agent (çoklu ajan) sistemleri üzerine çalışıyorum.
+- ⚙️ **Backend:** C# / .NET API ve Python tabanlı otomasyon araçları geliştiriyorum.
+- 🚀 **Ana Projem:** Duygu analizi ve motivasyon odaklı **[Darklove](https://darklove.io)** platformunun yerel AI modüllerini inşa ediyorum.
 
 ---
 
-##  Tech Stack
+### 🛠️ Teknolojiler & Araçlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,docker,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,ts,react,nextjs,nodejs,tailwind,git,github,docker,vscode,pycharm,visualstudio" />
+  </a>
 </p>
 
 ---
 
-##  Main Interests
+### 📊 GitHub İstatistikleri
 
-```txt
-AI Engineering
-Backend Development
-Local AI
-LLM Systems
-Emotion Analysis
-Automation
-API Integrations
-Multi-Agent Systems
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=petrofi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrofi&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📂 Öne Çıkan Projeler
+
+*   **[darkmind-30m](https://github.com/petrofi/darkmind-30m):** Türkçe odaklı, sıfırdan Transformer mimarisi ve tokenizer eğitim loop'u içeren mini dil modeli projesi.
+*   **[darkdrive-ai-simulation](https://github.com/petrofi/darkdrive-ai-simulation):** Bilgisayarlı görü, şerit tespiti ve PyTorch ile otonom sürüş simülasyonu çalışması.
+*   **[darklove-konu-ma-analizi-](https://github.com/petrofi/darklove-konu-ma-analizi-):** WhatsApp/Discord geçmişlerini analiz edip duygu ve kelime istatistikleri çıkaran Next.js & Tailwind tabanlı modern web aracı.
+*   **[astraeus-lifeos](https://github.com/petrofi/astraeus-lifeos):** Konsept duyarlı otonom AI yaşam planlayıcı ve zamanlayıcı sistemi.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/normal-badge.png?id=petrofi&color=blueviolet&style=flat-square" alt="profile views" />
+</div>
