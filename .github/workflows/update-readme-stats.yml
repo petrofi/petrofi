@@ -17,18 +17,16 @@ jobs:
       - name: Generate GitHub stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: petrofi
           card: stats
           path: assets/github-stats.svg
-          options: show_icons=true&theme=tokyonight
+          options: username=petrofi&show_icons=true&theme=tokyonight
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: petrofi
           card: top-langs
           path: assets/top-langs.svg
-          options: layout=compact&theme=tokyonight
+          options: username=petrofi&layout=compact&theme=tokyonight
 
       - name: Commit updated stats
         run: |
