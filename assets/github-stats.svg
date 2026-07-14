@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Tar&#305;k Sa&#287;l&#305;cak 's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 175, Total PRs: 16, Total Issues: 0, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 187, Total PRs: 20, Total Issues: 0, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 192.83961545004306;
+        stroke-dashoffset: 189.280770136955;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >175</text>
+      >187</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >16</text>
+      >20</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
