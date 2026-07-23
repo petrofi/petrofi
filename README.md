@@ -6,9 +6,11 @@ Backend ve uygulamalı makine öğrenmesi alanında kendini geliştiren giriş s
 
 ## GitHub gelişim özeti
 
-| Başlangıç | Açık depo | Commit | Kazanılan yıldız |
+| Başlangıç | Açık depo | Proje commit'i | Kazanılan yıldız |
 | --- | ---: | ---: | ---: |
-| 25 Ocak 2026 | **14** | **218** | **25** |
+| 25 Ocak 2026 | **14** | **210** | **25** |
+
+14 açık deponun 13'ü proje, 1'i bu profil deposudur. Commit toplamında profil README güncellemeleri yer almaz.
 
 ### Ay ay ilerleme
 
@@ -17,8 +19,8 @@ Backend ve uygulamalı makine öğrenmesi alanında kendini geliştiren giriş s
 | Ocak 2026 | 1 | 1 | 1 | 1 |
 | Nisan 2026 | 2 | 6 | 3 | 7 |
 | Mayıs 2026 | 3 | 27 | 6 | 34 |
-| Haziran 2026 | 6 | 101 | 12 | 135 |
-| Temmuz 2026 | 2 | 83 | **14** | **218** |
+| Haziran 2026 | 6 | 96 | 12 | 130 |
+| Temmuz 2026 | 2 | 80 | **14** | **210** |
 
 Ocak ayında tek bir Python projesiyle başlayan açık kaynak çalışmaları, haziran ve temmuz aylarında daha düzenli commit, otomatik test ve dokümantasyon içeren projelere dönüştü.
 
@@ -50,4 +52,4 @@ Bu oranlar deneyim seviyesini değil, GitHub’ın açık depolarda ölçtüğü
 - Yerel modellerin güvenli ve açıklanabilir kullanımını geliştirmek
 - Simülasyon projelerinde veri kalitesi ve tekrar edilebilir doğrulamaya odaklanmak
 
-<sub>İstatistikler 23 Temmuz 2026 tarihinde GitHub API üzerinden hesaplandı. Commit sayısı, açık depoların varsayılan dallarında `petrofi` hesabıyla eşleşen commitleri kapsar; özel depolar ve diğer dallar dahil değildir. Dil oranları GitHub’ın bayt tabanlı dil verisine dayanır.</sub>
+<sub>İstatistikler 23 Temmuz 2026 tarihinde GitHub API üzerinden hesaplandı. Commit sayısı, profil deposu dışındaki 13 açık projenin varsayılan dallarında `petrofi` hesabıyla eşleşen commitleri kapsar; özel depolar ve diğer dallar dahil değildir. Dil oranları GitHub’ın bayt tabanlı dil verisine dayanır.</sub>
