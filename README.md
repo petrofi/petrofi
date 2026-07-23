@@ -1,61 +1,29 @@
-<div align="center">
-  <h1>👋 Selam, Ben Tarık Sağlıcak (petrofi)</h1>
-  <p><strong>Junior AI & Backend Developer | Python • C# • .NET • LLM Systems • Local AI</strong></p>
-  
-  <p>
-    <a href="https://darklove.io" target="_blank">
-      <img src="https://img.shields.io/badge/Website-darklove.io-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://github.com/petrofi" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-petrofi-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</div>
+# Tarık Sağlıcak
 
----
+Backend sistemleri ve uygulamalı makine öğrenmesi projeleri geliştiriyorum. C#/.NET ve Python ile servisler; PyTorch, OpenCV ve yerel modellerle çalışan prototipler üretiyorum. Projelerimde tekrarlanabilir testlere, ölçülebilir sonuçlara ve sınırları açıkça belgelenmiş sistemlere önem veriyorum.
 
-### 💫 Hakkımda
+İstanbul, Türkiye · [darklove.io](https://darklove.io)
 
-İstanbul'da yaşayan ve yapay zeka odaklı pratik ürünler ile güçlü backend sistemleri geliştirmeye odaklanan bir yazılımcıyım. 
+## Seçilmiş çalışmalar
 
-- 🧠 **Yapay Zeka & NLP:** Yerel yapay zeka modelleri (Local LLMs), duygu analizi ve multi-agent (çoklu ajan) sistemleri üzerine çalışıyorum.
-- ⚙️ **Backend:** C# / .NET API ve Python tabanlı otomasyon araçları geliştiriyorum.
-- 🚀 **Ana Projem:** Duygu analizi ve motivasyon odaklı **[Darklove](https://darklove.io)** platformunun yerel AI modüllerini inşa ediyorum.
+| Proje | Kapsam | Doğrulanmış sonuç |
+| --- | --- | --- |
+| [DarkDrive AI Simulation](https://github.com/petrofi/darkdrive-ai-simulation) | Unity simülatöründe davranış klonlama, veri seti dengeleme ve kapalı çevrim direksiyon kontrolü | **141 test**; 20,328 saniyelik aktif koşuda **1.724 başarılı tahmin**, **0 operasyonel çıkarım hatası** ve **7,958 ms** ortalama CPU gecikmesi |
+| [Darklove Local AI Module](https://github.com/petrofi/darklove-local-ai-module) | ASP.NET Core üzerinde yerel ve gizlilik odaklı Türkçe duygu analizi; LM Studio/Ollama entegrasyonu ve kural tabanlı fallback | Birim ve HTTP entegrasyon senaryolarını kapsayan **46 otomatik test**; CI ile doğrulanan build ve test akışı |
+| [DarkMind-30M](https://github.com/petrofi/darkmind-30m) | PyTorch ile sıfırdan decoder-only Transformer, özel tokenizer, eğitim ve çıkarım hattı | DarkMind v2 için **50 milyon karakterlik** tokenizer corpus'u; **4 adayın** karşılaştırılması ve **24k BPE** tokenizer seçimi |
+| [MeritTrace](https://github.com/petrofi/merittrace) | FastAPI, React ve SQLite ile yerel çalışan; açıklanabilir puanlama, RBAC ve denetim kaydı sunan aday inceleme MVP'si | **37 backend**, **17 frontend** ve **5 E2E** testi; doğrulanmış lint ve production build |
 
----
+## Diğer projeler
 
-### 🛠️ Teknolojiler & Araçlar
+- [Autonomous UAV Simulation](https://github.com/petrofi/Autonomous-UAV-Simulation) — PX4 SITL ve Gazebo üzerinde kontrollü kalkış, sabit hover, iniş ve otomatik disarm doğrulaması; yatay uçuş henüz kapsam dışında.
+- [XTTS Voice Cloning Demo](https://github.com/petrofi/xtts-voice-cloning-demo-tr-en) — Türkçe/İngilizce ses koşullandırma ve TTS için FastAPI tabanlı yerel demo.
+- [BloomForMom](https://github.com/petrofi/bloom-for-mom) — React ve TypeScript ile, backend ve harici medya bağımlılığı olmadan çalışan paylaşılabilir web deneyimi.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,ts,react,nextjs,nodejs,tailwind,git,github,docker,vscode,pycharm,visualstudio" />
-  </a>
-</p>
+## Teknik kapsam
 
----
+- **Backend:** C#, .NET, ASP.NET Core, Python, FastAPI
+- **Makine öğrenmesi:** PyTorch, OpenCV, yerel LLM çalışma ortamları
+- **Web:** TypeScript, JavaScript, React, Next.js
+- **Altyapı:** Docker, GitHub Actions, PostgreSQL, SQLite
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="./assets/github-stats.svg" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="./assets/top-langs.svg" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📂 Öne Çıkan Projeler
-
-*   **[darkmind-30m](https://github.com/petrofi/darkmind-30m):** Türkçe odaklı, sıfırdan Transformer mimarisi ve tokenizer eğitim loop'u içeren mini dil modeli projesi.
-*   **[darkdrive-ai-simulation](https://github.com/petrofi/darkdrive-ai-simulation):** Bilgisayarlı görü, şerit tespiti ve PyTorch ile otonom sürüş simülasyonu çalışması.
-*   **[darklove-konu-ma-analizi-](https://github.com/petrofi/darklove-konu-ma-analizi-):** WhatsApp/Discord geçmişlerini analiz edip duygu ve kelime istatistikleri çıkaran Next.js & Tailwind tabanlı modern web aracı.
-*   **[astraeus-lifeos](https://github.com/petrofi/astraeus-lifeos):** Konsept duyarlı otonom AI yaşam planlayıcı ve zamanlayıcı sistemi.
-
-
+> Sonuçlar ilgili depolardaki test kayıtları ve doğrulama raporlarına dayanır. Deneysel veya henüz doğrulanmamış özellikler ayrıca belirtilmiştir.
