@@ -10,7 +10,6 @@ Backend ve uygulamalı makine öğrenmesi alanında kendini geliştiren giriş s
 | --- | ---: | ---: | ---: |
 | 25 Ocak 2026 | **14** | **210** | **25** |
 
-14 açık deponun 13'ü proje, 1'i bu profil deposudur. Commit toplamında profil README güncellemeleri yer almaz.
 
 ### Ay ay ilerleme
 
