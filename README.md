@@ -1,7 +1,5 @@
 # Tarık Sağlıcak
 
-Backend ve uygulamalı makine öğrenmesi alanında kendini geliştiren giriş seviyesi bir yazılım geliştiricisiyim. Öğrendiklerimi küçük denemelerden test edilebilir servislere ve simülasyon projelerine taşıyarak ilerliyorum.
-
 İstanbul, Türkiye · [darklove.io](https://darklove.io)
 
 ## GitHub gelişim özeti
@@ -21,7 +19,6 @@ Backend ve uygulamalı makine öğrenmesi alanında kendini geliştiren giriş s
 | Haziran 2026 | 6 | 96 | 12 | 130 |
 | Temmuz 2026 | 2 | 80 | **14** | **210** |
 
-Ocak ayında tek bir Python projesiyle başlayan açık kaynak çalışmaları, haziran ve temmuz aylarında daha düzenli commit, otomatik test ve dokümantasyon içeren projelere dönüştü.
 
 ### Açık kodun dil dağılımı
 
@@ -33,7 +30,6 @@ Ocak ayında tek bir Python projesiyle başlayan açık kaynak çalışmaları, 
 | JavaScript | %3,0 |
 | CSS ve HTML | %2,5 |
 
-Bu oranlar deneyim seviyesini değil, GitHub’ın açık depolarda ölçtüğü kod hacmini gösterir.
 
 ## Öne çıkan ilerleme adımları
 
